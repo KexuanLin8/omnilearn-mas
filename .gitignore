@@ -1,0 +1,27 @@
+# Dependencies and generated frontend files
+node_modules/
+build/
+dist/
+submission-build/
+*.tsbuildinfo
+*.log
+
+# Environment and credentials
+.env
+.env.*
+!.env.example
+*.env
+.npmrc
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Local application stores, imports and uploaded course materials
+/runtime-data/
+/data/
+/file/
+/platform-library/
+
+.DS_Store
+Thumbs.db
