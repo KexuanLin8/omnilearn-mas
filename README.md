@@ -98,3 +98,5 @@ flowchart LR
 ## 团队
 
 OmniLearn 团队 · 全域学习多智能体系统
+
+[项目版本演进](docs/development-history.md)
